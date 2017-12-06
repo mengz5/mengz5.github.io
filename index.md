@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MengZhang Pages
 
 You can use the [editor on GitHub](https://github.com/mengz5/mengz5.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
